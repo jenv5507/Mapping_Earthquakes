@@ -4,4 +4,4 @@ The purpose of this project was to map the earthquake data.  In addition, I adde
 
 I added the dark style to the map which really helps pop out the earth quake and the tectonic data.  It is my favorite view of the map!
 
-![](/Mapping_Earthquakes/dark_map.png)
+![](/dark_map.png)
